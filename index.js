@@ -1,12 +1,14 @@
 
 console.log("me")
+console.log("me")
 
 
-for (let index = 0; index < array.length; index++) {
-  const element = array[index];
+for (let nice = 0; nice < array.length; nice++) {
+
   setTimeout(() => {
     console.trace('me nice')
-  }, index * 9);
+  }, nice * 9);
+  const element = array[nice];
 }
 
 for (let index = 0; index < array.length; index++) {
