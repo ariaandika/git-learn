@@ -37,3 +37,7 @@ function dose(params) {
   "not so"
 }
 
+function end(params) {
+  
+}
+
