@@ -28,3 +28,12 @@ for (let index = 0; index < array.length; index++) {
     console.trace('me nice')
   }, addme(89));
 }
+
+function dome(params) {
+  easy
+}
+
+function dose(params) {
+  "not so"
+}
+
