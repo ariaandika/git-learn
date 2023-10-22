@@ -1,9 +1,5 @@
 exit
 exit
-cat pids.json 
-claer
-exit
-:q
-exit
+xit
 exit
 exit
