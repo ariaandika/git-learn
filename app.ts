@@ -14,3 +14,7 @@ for (const _ of []) {
     
 }
 
+do {
+
+} while (true)
+
